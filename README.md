@@ -12,4 +12,4 @@ npm run dev
 ## Migration db
 ```
 npx sequelize-cli db:migrate
-```# CRUD-backend-api
+```
